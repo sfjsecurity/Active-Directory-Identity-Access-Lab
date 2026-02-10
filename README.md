@@ -3,6 +3,7 @@
 This lab demonstrates hands-on Active Directory administration focused on identity, authentication, access control, and troubleshooting within a Windows domain environment.
 
 ## Areas Covered
+- [Lab Setup](./Lab-Setup/)
 - [User & Group Management](./User-Group-Management/)
 - [Password & Account Lockout Management](./Password-Account-Management/)
 - [Group Policy Basics](./Group-Policy/)
